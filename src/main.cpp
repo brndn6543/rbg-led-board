@@ -5,6 +5,7 @@
 #define GREEN 5
 #define RED 6
 
+// Function defining the loop that will provide the fading between colors.
 void fader(int start, int end, const int startPin, const int endPin, int delayTime) {
     for (int i = 0; i < 255; i++) {
         start -= 1;
