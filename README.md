@@ -4,7 +4,7 @@ UNO and C++ code.
 
 ## Video Demonstration (YouTube)
 
-[![Watch on YouTube](https://i9.ytimg.com/vi/h9UGBXqKjc0/mqdefault.jpg?sqp=CLDDxMAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCggOSh_MA8=&rs=AOn4CLDmLrN8GqSaUzAeizhneaGCUrsWeA)](https://youtu.be/h9UGBXqKjc0)
+[![Watch on YouTube](https://i9.ytimg.com/vi/l5wQF2TQJSk/mqdefault.jpg?sqp=CLDDxMAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPygTMA8=&rs=AOn4CLAd6dfn3agSJWY8_EOtVqiZbQDGzA)](https://youtu.be/h9UGBXqKjc0)
 
 PWM controls the the brightness of each of the LEDs.
 Roughly, every 1/500th of a second, the PWM output will produce a pulse. The length of the pulse is controlled
